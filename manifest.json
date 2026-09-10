@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Simple Counter",
+    "version": "1.0",
+    "description": "A simple counter with target notifications.",
+
+    "permissions": [
+        "notifications"
+    ],
+
+    "action": {
+        "default_popup": "popup.html"
+    }
+}

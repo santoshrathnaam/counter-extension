@@ -1,0 +1,43 @@
+body {
+    width: 250px;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 22px;
+}
+
+#count {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 15px;
+}
+
+button {
+    padding: 8px 15px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.buttons button {
+    font-size: 20px;
+}
+
+#reset {
+    width: 100px;
+}
+
+.target-section {
+    margin-top: 15px;
+}
+
+#target {
+    width: 60px;
+    padding: 6px;
+}
+
+#status {
+    font-weight: bold;
+}
